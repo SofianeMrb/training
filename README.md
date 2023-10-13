@@ -1,2 +1,2 @@
 # training
-Hello Odin you dog
+Hello Odin
